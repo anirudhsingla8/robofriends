@@ -9,12 +9,7 @@
     },
     {
       "src": "/android-chrome-192*192.png",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/png"
-    },
-    {
-      "src": "/android-chrome-192*192.png",
-      "sizes": "64x64 32x32 24x24 16x16",
+      "sizes": "192*192",
       "type": "image/png"
     }
   ],
